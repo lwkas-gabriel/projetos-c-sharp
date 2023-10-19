@@ -1,0 +1,14 @@
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\bin\Debug\net7.0\PrimeioProjeto.exe
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\bin\Debug\net7.0\PrimeioProjeto.deps.json
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\bin\Debug\net7.0\PrimeioProjeto.runtimeconfig.json
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\bin\Debug\net7.0\PrimeioProjeto.dll
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\bin\Debug\net7.0\PrimeioProjeto.pdb
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\obj\Debug\net7.0\PrimeioProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\obj\Debug\net7.0\PrimeioProjeto.AssemblyInfoInputs.cache
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\obj\Debug\net7.0\PrimeioProjeto.AssemblyInfo.cs
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\obj\Debug\net7.0\PrimeioProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\obj\Debug\net7.0\PrimeioProjeto.dll
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\obj\Debug\net7.0\refint\PrimeioProjeto.dll
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\obj\Debug\net7.0\PrimeioProjeto.pdb
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\obj\Debug\net7.0\PrimeioProjeto.genruntimeconfig.cache
+C:\Users\Wanderer\Documents\projetos-c#\PrimeioProjeto\PrimeioProjeto\obj\Debug\net7.0\ref\PrimeioProjeto.dll
