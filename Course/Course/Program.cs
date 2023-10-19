@@ -55,13 +55,17 @@ namespace Course
 
             Console.WriteLine("Area do triangulo X: " + areaX);
             Console.WriteLine("Area do triangulo Y: " + areaY);
-            Console.Read();*/
+            Console.Read();
 
             Produto novoProduto = new Produto("Mandioca", 1.45, 50);
             novoProduto.ImprimirDadosProduto();
             novoProduto.AdicionarProdutos(10);
             novoProduto.RemoverProdutos(15);
-            novoProduto.ImprimirDadosProduto();
+            novoProduto.ImprimirDadosProduto();*/
+
+            
+
+
             Console.Read();
 
         }

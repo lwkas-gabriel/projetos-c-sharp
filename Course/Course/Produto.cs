@@ -8,20 +8,35 @@ namespace Course
 {
     internal class Produto
     {
-        private string Nome;
-        private double Preco;
-        private int Quantidade;
+        private string _Nome;
+        private double Preco { get; private set };
+        private int Quantidade; { get; private set };
 
         public Produto(string nome, double preco, int qtd)
         {
-            this.Nome = nome;
+            this._Nome = nome;
             this.Preco = preco;
             this.Quantidade = qtd;
         }
 
+        public string Nome
+        {
+            get {
+                return _nome;
+
+            }
+            set {
+                if (value != null && value.Length > 1)
+                {
+                    _Nome = value;
+                }
+
+            }
+        }
+
         public void ImprimirDadosProduto()
         {
-            Console.WriteLine($"{this.Nome} - Quantidade em Estoque: {this.Quantidade} - Preço: R${this.Preco}");
+            Console.WriteLine($"{this._Nome} - Quantidade em Estoque: {this.Quantidade} - Preço: R${this.Preco}");
         }
 
         public double ValorTotalEmEstoque()
