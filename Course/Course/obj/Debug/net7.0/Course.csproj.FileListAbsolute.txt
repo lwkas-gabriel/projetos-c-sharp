@@ -12,3 +12,17 @@ C:\Users\Wanderer\Documents\projetos-c-sharp\Course\Course\obj\Debug\net7.0\refi
 C:\Users\Wanderer\Documents\projetos-c-sharp\Course\Course\obj\Debug\net7.0\Course.pdb
 C:\Users\Wanderer\Documents\projetos-c-sharp\Course\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
 C:\Users\Wanderer\Documents\projetos-c-sharp\Course\Course\obj\Debug\net7.0\ref\Course.dll
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\obj\Debug\net7.0\Course.dll
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\obj\Debug\net7.0\refint\Course.dll
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\obj\Debug\net7.0\Course.pdb
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\bin\Debug\net7.0\Course.exe
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\bin\Debug\net7.0\Course.deps.json
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\bin\Debug\net7.0\Course.runtimeconfig.json
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\bin\Debug\net7.0\Course.dll
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\bin\Debug\net7.0\Course.pdb
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
+C:\Users\Wanderer\Source\Repos\projetos-c-sharp\Course\Course\obj\Debug\net7.0\ref\Course.dll
