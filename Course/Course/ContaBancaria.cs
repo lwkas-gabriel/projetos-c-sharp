@@ -22,7 +22,7 @@ namespace Course
 
         public ContaBancaria(int numero, string titular, double saldo): this(numero, titular)
         {
-            this.Saldo = saldo;
+            Deposito(saldo);
         }
 
         public override string ToString()
@@ -33,6 +33,28 @@ namespace Course
                 + Titular
                 + ", Saldo: $ "
                 + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+        }
+
+        public void Saque(double quantia)
+        {
+            // o saque possui taxa de 5 dinheiros
+            if (quantia < 0)
+            {
+                Console.WriteLine("Entrada invalida!");
+            }
+            else if (quantia + 5.0 > this.Saldo)
+            {
+                Console.WriteLine("Você não tem saldo suficiente para realizar essa operação!");
+            }
+            else
+            {
+                this.Saldo -= quantia + 5;
+            }
+        }
+
+        public void Deposito(double quantia)
+        {
+            this.Saldo += quantia;
         }
     }
 }

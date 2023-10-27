@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,8 +9,8 @@ namespace Course
     internal class Produto
     {
         private string _Nome;
-        private double Preco { get; private set };
-        private int Quantidade; { get; private set };
+        public double Preco { get; private set; }
+        public int Quantidade; { get; private set; }
 
         public Produto(string nome, double preco, int qtd)
         {
@@ -22,7 +22,7 @@ namespace Course
         public string Nome
         {
             get {
-                return _nome;
+                return _Nome;
 
             }
             set {
@@ -68,4 +68,4 @@ namespace Course
             }
         }
     }
-}
+}*/
